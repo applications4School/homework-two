@@ -9,7 +9,7 @@ export default function index() {
   
   return (
     <View style={styles.container}>
-      {/* Header Section */}
+    
       <View style={styles.header}>
         <Text style={styles.title}>Welcome to my coding world!</Text>
       </View>
